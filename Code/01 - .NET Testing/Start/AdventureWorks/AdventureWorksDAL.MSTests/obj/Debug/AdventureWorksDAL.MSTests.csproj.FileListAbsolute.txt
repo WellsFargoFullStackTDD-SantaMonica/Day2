@@ -1,0 +1,5 @@
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\bin\Debug\AdventureWorksDAL.MSTests.dll
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\bin\Debug\AdventureWorksDAL.MSTests.pdb
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\obj\Debug\AdventureWorksDAL.MSTests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\obj\Debug\AdventureWorksDAL.MSTests.dll
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\obj\Debug\AdventureWorksDAL.MSTests.pdb
